@@ -1,0 +1,1 @@
+This repository demonstrates a common error when working with Firebase and document snapshots.  The bug occurs when attempting to access a property before the snapshot data is fully loaded, resulting in an undefined value or error. The solution showcases how to correctly handle asynchronous operations and ensure data availability before access.
